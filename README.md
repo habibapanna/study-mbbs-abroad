@@ -53,7 +53,7 @@ https://study-mbbs-abroad-pearl.vercel.app
 
 ## Contact
 For any inquiries, please reach out via email or social media.
-
+Email: habibapanna49@gmail.com
 ---
 This project serves as an informational landing page for MBBS abroad programs. 🚀
 
